@@ -337,6 +337,8 @@
             android:background="#F53D62"
             android:text="Done"
             android:textColor="#FFF"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="20dp"
 
             />
 
